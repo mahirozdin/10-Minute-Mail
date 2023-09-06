@@ -1,0 +1,23 @@
+{
+       "heading" : "10 Minute Mail - Protects your privacy with temp mail."    ,
+       "loading" : "Loading...",
+       "refresh_button" : "Refresh",
+       "change_button" : "Change",
+       "delete_button" : "Delete",
+       "empty_inbox" : "Your inbox is empty",
+       "waiting_for_mails" : "Waiting for emails...",
+       "refresh_to_see_mails" : "Refresh to see emails",
+       "refresh_to_see_mails_description" : "Refreshing stopped because there is no mail for a long time. To check mail click to refresh button.",
+       "copied_to_clipboard" : "Copied to clipboard",
+       "attachments" : "Attachments",
+       "enter_new_email" : "Enter new email",
+       "custom_email" : "Custom email",
+       "custom_email_description" : "Enter your custom email address eg: yourname@example.com",
+       "create_button" : "Create",
+       "domains_not_loaded" : "Domains not loaded yet. Please try again 10 seconds later.",
+       "no_domains" : "System is not allowed to create custom emails. Please contact your system administrator. info@bubiapps.com",
+       "dont_enter_domain" : "Don't enter domain name and @ sign. Example input: yourname ",
+       "scan_code" : "To Scan Code Please enter 10minutesemail.net and scan the QR code.",
+       "qr_not_found" : "QR code not found",
+       "success" : "Success!"
+}
